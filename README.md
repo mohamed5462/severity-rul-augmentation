@@ -6,7 +6,7 @@ data from the target machine.
 
 **Paper:** *Severity-conditioned signature augmentation against fault-mode shift
 in single-source remaining useful life prediction*  
-M. A. Hamdouchi, A. Touil, A. Mousrij, Hassan 1st University, Settat, Morocco  
+M. A. Hamdouchi (first author), Hassan 1st University, Settat, Morocco  
 Under review at *Reliability Engineering & System Safety*
 
 ## Approach
